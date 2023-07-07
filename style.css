@@ -458,7 +458,7 @@ nav .nav-menu{
         border-radius: 10px;
     }
 }
-@media screen and (max-width:400px){
+@media screen and (max-width:300px){
     .m-intro{
         width: 100%;
     }
@@ -479,6 +479,12 @@ nav .nav-menu{
         width: 50px;
         height: 50px;
     }
+    .ic-2{
+        font-size: 18px;
+    }
+    .ans{
+        font-size: 18px;
+    }
 }
 @media screen and (min-width:400px) and (max-width:767px){
     .m-intro img{
@@ -490,7 +496,7 @@ nav .nav-menu{
         font-weight: 600;
     }
 }
-@media screen and (min-width:350px) and (max-width:800px){
+@media screen and (min-width:300px) and (max-width:800px){
         .inf-cont{
         padding: 0 10%;
     }
